@@ -50,4 +50,7 @@
     a.navbar-brand{
         font-size: 0.9rem;
     }
+    .container {
+        padding-top: 22px;
+    }
 }
