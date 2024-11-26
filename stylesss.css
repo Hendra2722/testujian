@@ -1,0 +1,25 @@
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+#kontak {
+    color: #05095c;
+}
+.ini{
+    color: #5c050a;
+}
+.icon {
+    color: #262625;
+}
+.content {
+    color: #5f6909;
+}
+.content a{
+    text-decoration: none;
+}
+@media (max-width: 576px) {
+    a.navbar-brand{
+        font-size: 0.9rem;
+    }
+}

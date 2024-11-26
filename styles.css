@@ -1,0 +1,24 @@
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+#sejarah {
+    text-align: center;
+    padding-top: 40px;
+}
+.sejarah-judul {
+    color: #318029;
+    text-shadow: 1px 0px 36px rgba(26,24,24,1);
+    border-bottom: 2px dotted;
+}
+.sejarah-isi {
+    color: #2d302d;
+    font-weight: bold;
+    text-shadow: 1px 0px 36px rgba(26,24,24,1);
+}
+@media (max-width: 576px) {
+    a.navbar-brand{
+        font-size: 0.9rem;
+    }
+}
