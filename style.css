@@ -46,6 +46,9 @@
 .content a{
     text-decoration: none;
 }
+#peta iframe {
+    width: 100%
+}
 @media (max-width: 576px) {
     a.navbar-brand{
         font-size: 0.9rem;
